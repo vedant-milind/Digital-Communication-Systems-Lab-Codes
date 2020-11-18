@@ -1,4 +1,3 @@
-
 clear all
 clc
 vectors=input("Enter the vectors in the form[v1;v2...;vn]")
